@@ -1,4 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Metin Yildiz ====================================================================================================================================  iOS Developer -------------  * 🌍  I'm based in Aydin/Turkey * 🖥️  See my portfolio at [My LinkedIn](http://www.linkedin.com/in/metinyldz) * ✉️  You can contact me at [metin.yldz@icloud.com](mailto:metin.yldz@icloud.com) * 🚀  I'm currently working on [Movie db app](http://github.com/metinyldz/MovieDb) * 🧠  I'm learning SwiftUI, Unit Test * 🤝  I'm open to collaborating on Other SwiftUI projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Metin Yildiz 
+====================================================================================================================================  
+
+iOS Developer 
+-------------  
+
+* 🌍  I'm based in Aydin/Turkey
+* 🖥️  See my portfolio at [My LinkedIn](http://www.linkedin.com/in/metinyldz)
+* ✉️  You can contact me at [metin.yldz@icloud.com](mailto:metin.yldz@icloud.com)
+* 🚀  I'm currently working on [Movie db app](http://github.com/metinyldz/MovieDb)
+* 🧠  I'm learning SwiftUI, Unit Test
+* 🤝  I'm open to collaborating on Other SwiftUI projects
 
 ### Skills  
 
